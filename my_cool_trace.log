@@ -1,0 +1,7 @@
+[2m2025-05-11T10:30:51.426603Z[0m [32m INFO[0m [2mexp2[0m[2m:[0m The number is 5
+[2m2025-05-11T10:30:51.426862Z[0m [35mTRACE[0m [1mcompute[0m[1m{[0m[3mn[0m[2m=[0m5[1m}[0m[2m:[0m [2mexp2[0m[2m:[0m Computing the value...
+[2m2025-05-11T10:30:51.426913Z[0m [32m INFO[0m [2mexp2[0m[2m:[0m The result is 10
+[2m2025-05-11T10:30:51.426937Z[0m [32m INFO[0m [2mexp2[0m[2m:[0m The number is 15
+[2m2025-05-11T10:30:51.426969Z[0m [35mTRACE[0m [1mcompute[0m[1m{[0m[3mn[0m[2m=[0m15[1m}[0m[2m:[0m [2mexp2[0m[2m:[0m Computing the value...
+[2m2025-05-11T10:30:51.427005Z[0m [33m WARN[0m [1mcompute[0m[1m{[0m[3mn[0m[2m=[0m15[1m}[0m[2m:[0m [2mexp2[0m[2m:[0m The number is greater than 10
+[2m2025-05-11T10:30:51.427047Z[0m [32m INFO[0m [2mexp2[0m[2m:[0m The result is 30
